@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-Bahrami1377
 - 👀 I’m interested in Python & AI & Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python at MaktabSharif Bootcamp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => amirhosein.bahrami.k77@gmail.com
 
