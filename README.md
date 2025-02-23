@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Amir-Bahrami1377
 - 👀 I’m interested in Developing Enterprise Appllications and startup's MVPs
-- - now i'm working on developing web applications with C# .net
+-  now i'm working on developing web applications with C# .net
 - 📫 How to reach me => amirhosein.bahrami.k77@gmail.com
