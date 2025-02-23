@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Amir-Bahrami1377
-- 👀 I’m interested in Python & AI & Data Science
+- 👀 I’m interested in Developing Enterprise Apllication and startup's MVPs
+- currently i'm focused on developing web application with C# .net
 - 📫 How to reach me => amirhosein.bahrami.k77@gmail.com
